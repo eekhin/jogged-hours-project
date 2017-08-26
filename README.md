@@ -1,6 +1,6 @@
 # Basic Project
 
-*Structure for creating a Basic Java Project.*
+*Structure for creating jogged-hours-project.*
 
 **Java 7**
 
